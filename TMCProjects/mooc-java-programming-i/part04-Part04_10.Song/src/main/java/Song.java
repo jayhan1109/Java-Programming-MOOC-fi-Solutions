@@ -6,4 +6,12 @@ public class Song {
         this.name = name;
         this.length = length;
     }
+
+    public String name(){
+        return name;
+    }
+
+    public int length(){
+        return length;
+    }
 }
