@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f961f1af-371e-44d4-9c38-c9252f359fb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_17.Money/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_17.Money/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/runConfigurations/Part06_01_Menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/classes/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/test-classes/MenuTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Part06_02_Stack.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part06_02.Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/StackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_17.Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_17.Money/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_01.Menu/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_01.Menu/src/main/java/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/src/main/java/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jOcFmhGMDbYHBQz5TDft7xfQGV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../CST/ClientServer/Assignment2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f961f1af-371e-44d4-9c38-c9252f359fb8" name="Default Changelist" comment="" />
+      <created>1603678477342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603678477342</updated>
+      <workItem from="1603678484504" duration="543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1603678614957">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="880" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603678614957" />
+    <state x="804" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603678799071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="804" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603678799071" />
+    <state width="878" height="211" key="GridCell.Tab.0.bottom" timestamp="1603679072860">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="878" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603679072860" />
+    <state width="878" height="211" key="GridCell.Tab.0.center" timestamp="1603679072859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="878" height="211" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603679072859" />
+    <state width="878" height="211" key="GridCell.Tab.0.left" timestamp="1603679072859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="878" height="211" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603679072859" />
+    <state width="878" height="211" key="GridCell.Tab.0.right" timestamp="1603679072859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="878" height="211" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603679072859" />
+  </component>
+</project>

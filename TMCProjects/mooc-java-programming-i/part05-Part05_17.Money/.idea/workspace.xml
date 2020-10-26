@@ -5,6 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b96e514b-d3bb-4b70-b36d-e53b01c7868d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_11.Film/target/classes/Film.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_12.Gauge/target/classes/Gauge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_14.Multiplier/target/classes/Multiplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_20.Books/target/classes/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/runConfigurations/Part04_22_Cubes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/Part04_22.Cubes.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_23.CreatingANewFile/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_23.CreatingANewFile/.idea/.name" afterDir="false" />
@@ -29,8 +45,20 @@
       <change afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/.idea/runConfigurations/Part04_24_PrintingAFile.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/Part04_24.PrintingAFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/Part04_25.PrintingASpecifiedFile.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/song.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/.idea/.gitignore" afterDir="false" />
@@ -45,6 +73,17 @@
       <change afterPath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/Part04_26.GuestListFromAFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/Part04_27.IsItInTheFile.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/.idea/.name" afterDir="false" />
@@ -70,6 +109,17 @@
       <change afterPath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/Part04_29.RecordsFromAFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/Part04_30.StoringRecords.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/.name" afterDir="false" />
@@ -96,12 +146,34 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/runConfigurations/Part05_01_OneMinute.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/Part05_01.OneMinute.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/src/main/java/ClockHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/src/main/java/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/src/main/java/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/src/test/java/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/ClockHand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Timer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/test-classes/TimerTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/Part05_02.Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/src/test/java/BookTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.idea/compiler.xml" afterDir="false" />
@@ -113,8 +185,12 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/Part05_03.Cube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/src/main/java/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/src/test/java/CubeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.idea/compiler.xml" afterDir="false" />
@@ -127,9 +203,17 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.idea/runConfigurations/Part05_04_Fitbyte.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/Part05_04.Fitbyte.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/src/main/java/Fitbyte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/src/test/java/FitbyteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/classes/Fitbyte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/classes/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/test-classes/FitbyteTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/jarRepositories.xml" afterDir="false" />
@@ -139,7 +223,12 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/Part05_05.ConstructorOverload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/src/main/java/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/src/test/java/ConstructorOverloadTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.idea/compiler.xml" afterDir="false" />
@@ -151,9 +240,34 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/Part05_06.OverloadedCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/main/java/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/test/java/ConstructorSignature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/test/java/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/test/java/MethodSignature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/test/java/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/runConfigurations/Part05_07_NullPointerException.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/Part05_07.NullPointerException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/src/main/java/NullPointerExceptionProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/src/test/java/NPEErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/target/classes/NullPointerExceptionProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/target/test-classes/NPEErrorTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/compiler.xml" afterDir="false" />
@@ -164,9 +278,42 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/runConfigurations/Part05_08_BiggestPetShop.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/Part05_08.BiggestPetShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/src/main/java/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/src/test/java/TheBiggestPetShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/MainProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/test-classes/TheBiggestPetShopTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/runConfigurations/Part05_09_HealthStation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/Part05_09.HealthStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/src/main/java/HealthStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/src/test/java/HealthStationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/HealthStation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/test-classes/HealthStationTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.idea/compiler.xml" afterDir="false" />
@@ -179,7 +326,17 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.idea/runConfigurations/Part05_10_CardPayments.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/Part05_10.CardPayments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/src/main/java/PaymentCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/src/main/java/PaymentTerminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/src/test/java/CardPaymentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/PaymentCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/PaymentTerminal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/test-classes/CardPaymentsTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.idea/compiler.xml" afterDir="false" />
@@ -192,7 +349,12 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.idea/runConfigurations/Part05_11_ComparingApartments.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/Part05_11.ComparingApartments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/src/main/java/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/src/test/java/ApartmentTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/classes/Apartment.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/classes/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/test-classes/ApartmentTest.class" afterDir="false" />
@@ -207,7 +369,12 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/Part05_12.Song.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/src/main/java/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/src/test/java/SongTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.idea/encodings.xml" afterDir="false" />
@@ -219,7 +386,13 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/Part05_13.IdenticalTwins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/src/main/java/SimpleDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/src/test/java/IdenticalTwinsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.idea/encodings.xml" afterDir="false" />
@@ -232,7 +405,12 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.idea/runConfigurations/Part05_14_Books.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/Part05_14.Books.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/src/test/java/BooksTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/target/classes/Book.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/target/classes/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/target/test-classes/BooksTest.class" afterDir="false" />
@@ -249,8 +427,12 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/.idea/runConfigurations/Part05_15_Archive.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/Part05_15.Archive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/src/main/java/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/src/test/java/ArchiveTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/classes/Item.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/classes/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/test-classes/ArchiveTest.class" afterDir="false" />
@@ -266,7 +448,15 @@
       <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.idea/runConfigurations/Part05_16_DatingApp.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/Part05_16.DatingApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/src/main/java/SimpleDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/src/test/java/A_DatingAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/src/test/java/B_DatingAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/classes/SimpleDate.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/test-classes/A_DatingAppTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/test-classes/B_DatingAppTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
@@ -278,14 +468,94 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Part05_17_Money.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmcproject.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Part05_17.Money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MoneyTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/MainProgram.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/Money.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/MoneyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/Part06_01.Menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/src/main/java/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/src/test/java/MenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/src/test/java/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/src/main/java/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/src/test/java/MessagingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/src/main/java/SimpleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/src/test/java/PrintingACollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/src/test/java/A_GiftTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/src/test/java/B_PackageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_06.LongestInCollection/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_06.LongestInCollection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_06.LongestInCollection/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_06.LongestInCollection/src/main/java/SimpleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_06.LongestInCollection/src/test/java/LongestInCollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/src/test/java/HeightOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_08.CargoHold/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_08.CargoHold/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_08.CargoHold/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_08.CargoHold/src/test/java/A_ItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_08.CargoHold/src/test/java/B_SuitcaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_08.CargoHold/src/test/java/C_HoldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/src/main/java/SimpleDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/src/test/java/TextUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/src/test/java/TodoListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/main/java/GradeRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/main/java/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/test/java/AveragesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/src/test/java/JokeManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_13.Exercises/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_13.Exercises/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_13.Exercises/src/main/java/ExerciseManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_13.Exercises/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_13.Exercises/src/test/java/ExerciseManagementTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../part04-Part04_10.Song/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_10.Song/target/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../part04-Part04_10.Song/target/classes/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_10.Song/target/classes/Song.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../part04-Part04_10.Song/target/test-classes/SongTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_10.Song/target/test-classes/SongTest.class" afterDir="false" />
@@ -388,21 +658,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="806" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1603667006755" />
-    <state width="878" height="211" key="GridCell.Tab.0.bottom" timestamp="1603667018611">
+    <state width="878" height="211" key="GridCell.Tab.0.bottom" timestamp="1603677992365">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="878" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603667018611" />
-    <state width="878" height="211" key="GridCell.Tab.0.center" timestamp="1603667018611">
+    <state width="878" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603677992365" />
+    <state width="878" height="211" key="GridCell.Tab.0.center" timestamp="1603677992364">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="878" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603667018611" />
-    <state width="878" height="211" key="GridCell.Tab.0.left" timestamp="1603667018611">
+    <state width="878" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603677992364" />
+    <state width="878" height="211" key="GridCell.Tab.0.left" timestamp="1603677992364">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="878" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603667018611" />
-    <state width="878" height="211" key="GridCell.Tab.0.right" timestamp="1603667018611">
+    <state width="878" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603677992364" />
+    <state width="878" height="211" key="GridCell.Tab.0.right" timestamp="1603677992365">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="878" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603667018611" />
+    <state width="878" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603677992365" />
   </component>
 </project>
