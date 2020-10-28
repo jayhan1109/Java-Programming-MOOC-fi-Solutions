@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f84d5247-8176-4ce7-aea6-8724de2292af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/runConfigurations/Part06_09_SimpleDictionary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/Part06_09.SimpleDictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/src/main/java/TextUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/target/classes/SimpleDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/target/classes/TextUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/target/test-classes/TextUITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/runConfigurations/Part06_10_TodoList.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/Part06_10.TodoList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/src/main/java/TodoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/src/main/java/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/target/classes/TodoList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/target/test-classes/TodoListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/runConfigurations/Part06_11_Averages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/Part06_11.Averages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/target/classes/GradeRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/target/classes/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/target/classes/UserInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/target/test-classes/AveragesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/runConfigurations/Part6_12_JokeManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/Part6_12.JokeManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/src/main/java/JokeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/src/main/java/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_03.OnceUponATime/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_03.OnceUponATime/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_04.Dinosaur/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_04.Dinosaur/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_05.Message/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_05.Message/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_06.HiAdaLovelace/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_06.HiAdaLovelace/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_07.MessageThreeTimes/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_07.MessageThreeTimes/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_08.Greeting/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_08.Greeting/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_09.Conversation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_09.Conversation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_10.Story/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_10.Story/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_11.VariousVariables/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_11.VariousVariables/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_13.DoubleInput/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_13.DoubleInput/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_16.SecondsInADay/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_16.SecondsInADay/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_17.SumOfTwoNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_17.SumOfTwoNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_18.SumOfThreeNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_18.SumOfThreeNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_19.AdditionFormula/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_19.AdditionFormula/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_20.MultiplicationFormula/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_20.MultiplicationFormula/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_21.AverageOfTwoNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_21.AverageOfTwoNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_22.AverageOfThreeNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_22.AverageOfThreeNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_23.SimpleCalculator/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_23.SimpleCalculator/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_24.SpeedingTicket/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_24.SpeedingTicket/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_25.CheckYourIndentation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_25.CheckYourIndentation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_26.Orwell/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_26.Orwell/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_27.Ancient/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_27.Ancient/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_28.Positivity/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_28.Positivity/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_29.Adulthood/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_29.Adulthood/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_30.LargerThanOrEqualTo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_30.LargerThanOrEqualTo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_31.GradesAndPoints/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_31.GradesAndPoints/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_32.OddOrEven/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_32.OddOrEven/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_33.Password/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_33.Password/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_34.Same/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_34.Same/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_35.CheckingTheAge/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_35.CheckingTheAge/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_36.LeapYear/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_36.LeapYear/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_37.GiftTax/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_37.GiftTax/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_01.Squared/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_01.Squared/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_03.AbsoluteValue/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_03.AbsoluteValue/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_04.ComparingNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_04.ComparingNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_05.CarryOn/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_05.CarryOn/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_06.AreWeThereYet/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_06.AreWeThereYet/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_07.OnlyPositives/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_07.OnlyPositives/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_08.NumberOfNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_08.NumberOfNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_09.NumberOfNegativeNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_09.NumberOfNegativeNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_11.NumberAndSumOfNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_11.NumberAndSumOfNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_12.AverageOfNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_12.AverageOfNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_13.AverageOfPositiveNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_13.AverageOfPositiveNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_14.Counting/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_14.Counting/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_15.CountingToHundred/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_15.CountingToHundred/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_16.FromWhereToWhere/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_16.FromWhereToWhere/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_17.SumOfASequence/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_17.SumOfASequence/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_18.SumOfASequenceTheSequel/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_18.SumOfASequenceTheSequel/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_19.Factorial/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_19.Factorial/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_20.RepeatingBreakingAndRemembering/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_20.RepeatingBreakingAndRemembering/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_21.InAHoleInTheGround/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_21.InAHoleInTheGround/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_22.Reprint/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_22.Reprint/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_24.FromParameterToOne/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_24.FromParameterToOne/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_25.Division/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_25.Division/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_26.DivisibleByThree/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_26.DivisibleByThree/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_27.NumberUno/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_27.NumberUno/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_28.Word/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_28.Word/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_29.Summation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_29.Summation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_30.Smallest/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_30.Smallest/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_31.Greatest/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_31.Greatest/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_32.Averaging/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_32.Averaging/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_33.StarSign/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_33.StarSign/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_01.ThirdElement/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_01.ThirdElement/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_02.SecondPlusThird/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_02.SecondPlusThird/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_03.IndexOutOfBoundsException/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_03.IndexOutOfBoundsException/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_04.ListSize/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_04.ListSize/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_05.LastInList/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_05.LastInList/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_06.FirstAndLast/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_06.FirstAndLast/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_07.RememberTheseNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_07.RememberTheseNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_08.OnlyTheseNumbers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_08.OnlyTheseNumbers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_09.GreatestInList/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_09.GreatestInList/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_10.IndexOf/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_10.IndexOf/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_11.IndexOfSmallest/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_11.IndexOfSmallest/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_12.SumOfAList/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_12.SumOfAList/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_13.AverageOfAList/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_13.AverageOfAList/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_14.OnTheList/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_14.OnTheList/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_15.PrintInRange/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_15.PrintInRange/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_16.Sum/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_16.Sum/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_17.RemoveLast/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_17.RemoveLast/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_18.Swap/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_18.Swap/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_19.IndexWasNotFound/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_19.IndexWasNotFound/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_20.SumOfArray/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_20.SumOfArray/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_21.PrintNeatly/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_21.PrintNeatly/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_22.PrintInStars/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_22.PrintInStars/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_23.PrintThrice/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_23.PrintThrice/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_24.IsItTrue/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_24.IsItTrue/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_25.Login/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_25.Login/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_26.LineByLine/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_26.LineByLine/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_27.AVClub/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_27.AVClub/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_28.FirstWords/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_28.FirstWords/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_29.LastWords/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_29.LastWords/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_30.AgeOfTheOldest/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_30.AgeOfTheOldest/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_31.NameOfTheOldest/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_31.NameOfTheOldest/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_32.PersonalDetails/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_32.PersonalDetails/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_01.YourFirstAccount/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_01.YourFirstAccount/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_02.YourFirstBankTransfer/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_02.YourFirstBankTransfer/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_03.DogAttributes/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_03.DogAttributes/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_04.Room/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_04.Room/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_05.Whistle/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_05.Whistle/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_06.Door/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_06.Door/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_07.Product/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_07.Product/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_08.DecreasingCounter/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_08.DecreasingCounter/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_09.Debt/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_09.Debt/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_10.Song/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_10.Song/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_11.Film/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_11.Film/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_12.Gauge/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_12.Gauge/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_13.Agent/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_13.Agent/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_14.Multiplier/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_14.Multiplier/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_15.NumberStatistics/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_15.NumberStatistics/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_16.PaymentCard/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_16.PaymentCard/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_17.Items/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_17.Items/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_18.PersonalInformation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_18.PersonalInformation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_19.TelevisionPrograms/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_19.TelevisionPrograms/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_20.Books/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_20.Books/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_21.NumberOfStrings/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_21.NumberOfStrings/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_21.NumberOfStrings/target/classes/NumberOfStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_21.NumberOfStrings/target/classes/NumberOfStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_22.Cubes/target/classes/Cubes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/target/classes/Cubes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_22.Cubes/target/test-classes/CubestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_22.Cubes/target/test-classes/CubestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_23.CreatingANewFile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_23.CreatingANewFile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/target/classes/PrintingAFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/target/classes/PrintingAFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/target/test-classes/PrintingAFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/target/test-classes/PrintingAFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/target/classes/PrintingASpecifiedFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/target/classes/PrintingASpecifiedFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/target/classes/GuestListFromAFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/target/classes/GuestListFromAFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/target/classes/IsItInTheFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/target/classes/IsItInTheFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/target/classes/NumbersFromAFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/target/classes/NumbersFromAFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/target/classes/RecordsFromAFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/target/classes/RecordsFromAFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/target/classes/StoringRecords.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/target/classes/StoringRecords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/target/classes/SportStatistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/target/classes/SportStatistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/target/test-classes/SportStatisticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/target/test-classes/SportStatisticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/ClockHand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/ClockHand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Timer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/test-classes/TimerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/test-classes/TimerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_02.Book/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_02.Book/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_03.Cube/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/classes/Fitbyte.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/classes/Fitbyte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/classes/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/classes/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/test-classes/FitbyteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_04.FitByte/target/test-classes/FitbyteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_05.ConstructorOverload/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/target/classes/NullPointerExceptionProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/target/classes/NullPointerExceptionProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/target/test-classes/NPEErrorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/target/test-classes/NPEErrorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/MainProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/MainProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/classes/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/test-classes/TheBiggestPetShopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_08.BiggestPetShop/target/test-classes/TheBiggestPetShopTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/HealthStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/HealthStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/classes/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/test-classes/HealthStationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_09.HealthStation/target/test-classes/HealthStationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/PaymentCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/PaymentCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/PaymentTerminal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/classes/PaymentTerminal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/test-classes/CardPaymentsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_10.CardPayments/target/test-classes/CardPaymentsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/classes/Apartment.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/classes/Apartment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/test-classes/ApartmentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_11.ComparingApartments/target/test-classes/ApartmentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_12.Song/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_12.Song/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_13.IdenticalTwins/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_14.Books/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_14.Books/target/classes/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/target/classes/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_14.Books/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_14.Books/target/test-classes/BooksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_14.Books/target/test-classes/BooksTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_15.Archive/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/classes/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/classes/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/test-classes/ArchiveTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_15.Archive/target/test-classes/ArchiveTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/classes/SimpleDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/classes/SimpleDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/test-classes/A_DatingAppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/test-classes/A_DatingAppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/test-classes/B_DatingAppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_16.DatingApp/target/test-classes/B_DatingAppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_17.Money/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_17.Money/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_17.Money/target/classes/MainProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_17.Money/target/classes/MainProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_17.Money/target/classes/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_17.Money/target/classes/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part05-Part05_17.Money/target/test-classes/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_17.Money/target/test-classes/MoneyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_01.Menu/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/classes/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/classes/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/test-classes/MenuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_01.Menu/target/test-classes/MenuTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_02.Stack/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_02.Stack/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_02.Stack/target/classes/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/target/classes/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_02.Stack/target/test-classes/StackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_02.Stack/target/test-classes/StackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/classes/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/classes/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/classes/MessagingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/classes/MessagingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/test-classes/MessagingServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_03.MessagingService/target/test-classes/MessagingServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/target/classes/SimpleCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/target/classes/SimpleCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/target/test-classes/PrintingACollectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_04.PrintingACollection/target/test-classes/PrintingACollectionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/classes/Gift.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/classes/Gift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/classes/Package.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/classes/Package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/test-classes/A_GiftTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/test-classes/A_GiftTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/test-classes/B_PackageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_05.SantasWorkshop/target/test-classes/B_PackageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_06.LongestInCollection/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_06.LongestInCollection/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/classes/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/classes/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/classes/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/test-classes/HeightOrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_07.HeightOrder/target/test-classes/HeightOrderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_09.SimpleDictionary/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_10.TodoList/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_10.TodoList/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/main/java/GradeRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/main/java/GradeRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/main/java/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_11.Averages/src/main/java/UserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/src/main/java/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part06-Part06_12.JokeManager/src/main/java/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExerciseManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExerciseManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExerciseManagementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExerciseManagementTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jP2ojvvBEjCaLGjBIxiK6hJHuG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../CST/ClientServer/Assignment2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseManagementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Part06_13.Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseManagementTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExerciseManagementTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84d5247-8176-4ce7-aea6-8724de2292af" name="Default Changelist" comment="" />
+      <created>1603691583781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603691583781</updated>
+      <workItem from="1603691589351" duration="40000" />
+      <workItem from="1603830134346" duration="1874000" />
+      <workItem from="1603833075217" duration="2668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="45" width="1089" height="789" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603834899745">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="45" width="1089" height="789" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1603834899745" />
+    <state x="876" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1603835104604">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="876" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1603835104604" />
+    <state width="886" height="213" key="GridCell.Tab.0.bottom" timestamp="1603835897027">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="886" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603835897027" />
+    <state width="886" height="213" key="GridCell.Tab.0.center" timestamp="1603835897027">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="886" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603835897027" />
+    <state width="886" height="213" key="GridCell.Tab.0.left" timestamp="1603835897026">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="886" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603835897026" />
+    <state width="886" height="213" key="GridCell.Tab.0.right" timestamp="1603835897027">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="886" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603835897027" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1603834652342">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603834652342" />
+  </component>
+</project>
