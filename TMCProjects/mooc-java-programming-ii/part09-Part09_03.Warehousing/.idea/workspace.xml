@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19ee4351-a885-4c6d-aadf-8163c31a5557" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/runConfigurations/Part09_02_PersonAndSubclasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/Part09_02.PersonAndSubclasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/src/main/java/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part09_03.Warehousing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChangeHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProductWarehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProductWarehouseWithHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_02.LiquidContainers2/target/classes/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_02.LiquidContainers2/target/classes/Container.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_02.LiquidContainers2/target/classes/LiquidContainers2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_02.LiquidContainers2/target/classes/LiquidContainers2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_10.IOweYou/target/classes/IOU.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_10.IOweYou/target/classes/IOU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_11.SameDate/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_11.SameDate/target/classes/SimpleDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/target/classes/SimpleDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_11.SameDate/target/test-classes/SimpleDateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/target/test-classes/SimpleDateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/target/classes/SimpleDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/target/classes/SimpleDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/target/test-classes/SimpleDateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/target/test-classes/SimpleDateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/target/classes/LicensePlate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/target/classes/LicensePlate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/target/test-classes/VehicleRegistryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/target/test-classes/VehicleRegistryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/target/classes/DictionaryOfManyTranslations.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/target/classes/DictionaryOfManyTranslations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/target/classes/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/target/classes/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/target/test-classes/DictionaryOfManyTranslationsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/target/test-classes/DictionaryOfManyTranslationsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/target/classes/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/target/classes/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/target/classes/StorageFacility.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/target/classes/StorageFacility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/target/test-classes/StorageFacilityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/target/test-classes/StorageFacilityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_01.ABC/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Warehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Warehouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Warehouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/A_ProductWarehouseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/A_ProductWarehouseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/B_ChangeHistoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/B_ChangeHistoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/C_ProductWarehouseWithHistoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/C_ProductWarehouseWithHistoryTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jZkFbwzTCHIHi0KW1CJ3CxmNY4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../CST/algorithm/lab7" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Part09_03.Warehousing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tmp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19ee4351-a885-4c6d-aadf-8163c31a5557" name="Default Changelist" comment="" />
+      <created>1604018900200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604018900200</updated>
+      <workItem from="1604018907000" duration="67000" />
+      <workItem from="1604085170268" duration="4406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="888" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1604087655762">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="888" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1604087655762" />
+    <state x="812" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604086721765">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="812" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1604086721765" />
+    <state x="876" y="172" key="FileChooserDialogImpl" timestamp="1604021617097">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="876" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604021617097" />
+    <state width="864" height="213" key="GridCell.Tab.0.bottom" timestamp="1604089753202">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="864" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604089753202" />
+    <state width="864" height="213" key="GridCell.Tab.0.center" timestamp="1604089753202">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="864" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604089753202" />
+    <state width="864" height="213" key="GridCell.Tab.0.left" timestamp="1604089753201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="864" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604089753201" />
+    <state width="864" height="213" key="GridCell.Tab.0.right" timestamp="1604089753202">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="864" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604089753202" />
+  </component>
+</project>

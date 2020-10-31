@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9b0f539-ce16-408f-9ba0-e3e2ee2d63b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Part09_02_PersonAndSubclasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part09_02.PersonAndSubclasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_01.ABC/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part09-Part09_01.ABC/target/test-classes/ABCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/target/test-classes/ABCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PersonAndSubclassesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PersonAndSubclassesTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jZiUfTZwR42LFEYTFdjt7ULIjI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../CST/ClientServer/Assignment2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b0f539-ce16-408f-9ba0-e3e2ee2d63b0" name="Default Changelist" comment="" />
+      <created>1604018033686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604018033686</updated>
+      <workItem from="1604018039808" duration="833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="901" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1604018684473">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="901" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1604018684473" />
+    <state x="825" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604018596491">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="825" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1604018596491" />
+    <state width="834" height="211" key="GridCell.Tab.0.bottom" timestamp="1604018900200">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="834" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604018900200" />
+    <state width="834" height="211" key="GridCell.Tab.0.center" timestamp="1604018900199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="834" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604018900199" />
+    <state width="834" height="211" key="GridCell.Tab.0.left" timestamp="1604018900199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="834" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604018900199" />
+    <state width="834" height="211" key="GridCell.Tab.0.right" timestamp="1604018900199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="834" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604018900199" />
+  </component>
+</project>
