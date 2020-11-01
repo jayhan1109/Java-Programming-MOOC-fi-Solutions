@@ -22,19 +22,16 @@ public class Hold {
 
     public int totalWeight() {
         int summa = 0;
-        int indeksi = 0;
-        while (indeksi < this.suitcases.size()) {
-        summa += this.suitcases.get(indeksi).totalWeight();
-        indeksi++;
-        }
-        return summa;
+        int index = 0;
+        return this.suitcases.stream().mapToInt(Suitcase::totalWeight).reduce(0, (prev, weight) -> prev + weight);
     }
 
     public void printItems() {
-        int indeksi = 0;
-        while (indeksi < this.suitcases.size()) {
-        this.suitcases.get(indeksi).printItems();
-        indeksi++;
+        int index = 0;
+        this.suitcases.forEach(Suitcase::printItems);
+        while (index < this.suitcases.size()) {
+            this.suitcases.get(index).printItems();
+            index++;
         }
     }
 
