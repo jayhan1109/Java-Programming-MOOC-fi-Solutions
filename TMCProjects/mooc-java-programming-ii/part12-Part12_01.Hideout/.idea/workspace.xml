@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="584f640f-474f-4ac0-bd0f-4534718b60a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_01.Customer/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_02.ABookAndAPlane/Part11_02.ABookAndAPlane.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_02.ABookAndAPlane/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_02.ABookAndAPlane/src/main/java/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/Part11_03.ShowAndTicket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/src/main/java/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/src/main/java/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_04.StudentAndUniversity/Part11_04.StudentAndUniversity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_04.StudentAndUniversity/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_04.StudentAndUniversity/src/main/java/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_05.ThePlayerAndTheBot/Part11_05.PlayerAndBot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_05.ThePlayerAndTheBot/src/main/java/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_05.ThePlayerAndTheBot/src/main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_06.SaveablePerson/Part11_06.SaveablePerson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_06.SaveablePerson/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_06.SaveablePerson/src/main/java/Saveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/Part11_07.BiggerClassDiagram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/IA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/IB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/IC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/Part11_08.FirstPackages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/src/main/java/mooc/logic/ApplicationLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/src/main/java/mooc/ui/TextInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/src/main/java/mooc/ui/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/Part11_09.ThreePackages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/src/main/java/a/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/src/main/java/b/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/src/main/java/c/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/Part11_10.FlightControl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/src/main/java/FlightControl/domain/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/src/main/java/FlightControl/domain/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/src/main/java/FlightControl/domain/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/src/main/java/FlightControl/logic/FlightControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/src/main/java/FlightControl/ui/TextUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_11.ValidatingParameters/Part11_11.ValidatingParameters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/runConfigurations/Part11_13_SaveableDictionary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/Part11_13.SaveableDictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/src/main/java/dictionary/SaveableDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part12_01.Hideout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hideout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_15.RegularExpressions/target/classes/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_15.RegularExpressions/target/classes/Checker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/Education.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/Education.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/Employees.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/Employees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/MainProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/MainProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/classes/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/test-classes/EmployeesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/target/test-classes/EmployeesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/BySuitInValueOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/BySuitInValueOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Hand$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Hand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Hand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/SortBySuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/SortBySuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Suit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/classes/Suit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/A_CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/A_CardTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/B_HandTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/B_HandTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/C_ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/C_ComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/D_HandTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/D_HandTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/target/test-classes/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/src/main/java/mooc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/src/main/java/mooc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/src/main/java/dictionary/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/src/main/java/dictionary/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/target/classes/dictionary/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/target/classes/dictionary/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/target/test-classes/dictionary/SaveableDictionaryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/target/test-classes/dictionary/SaveableDictionaryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ji9xUTJ9uAjhMcWHY6CM5AgKUa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../CST/ClientServer/Assignment2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="584f640f-474f-4ac0-bd0f-4534718b60a4" name="Default Changelist" comment="" />
+      <created>1604276291912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604276291912</updated>
+      <workItem from="1604276296814" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="61" key="#Plugins" timestamp="1604277058791">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="675" y="61" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1604277058791" />
+    <state x="888" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1604276677002">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="888" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1604276677002" />
+    <state x="746" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1604277023235">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="746" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1604277023235" />
+  </component>
+</project>
